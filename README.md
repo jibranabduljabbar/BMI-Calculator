@@ -6,4 +6,5 @@
 <br>
 
 <center>
-<img align="center" src="https://media.licdn.com/dms/image/C4D22AQHof9uqFCY3AQ/feedshare-shrink_800/0/1678098369701?e=1680739200&v=beta&t=NDU8SigNZazvqyjY9DcUwJhMB_faEgigPlX_1iSsuJY"/></center>
+  <div>
+<img align="center" src="https://media.licdn.com/dms/image/C4D22AQHof9uqFCY3AQ/feedshare-shrink_800/0/1678098369701?e=1680739200&v=beta&t=NDU8SigNZazvqyjY9DcUwJhMB_faEgigPlX_1iSsuJY"/></div></center>
